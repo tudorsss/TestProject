@@ -19,7 +19,7 @@ struct ContentView: View {
         TabView(selection: $selection) {
             CategoryHome()
                 .tabItem {
-                    Label("Featured", systemImage: "star")
+                    Label("Features", systemImage: "star")
                 }
                 .tag(Tab.featured)
 
