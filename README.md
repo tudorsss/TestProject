@@ -1,3 +1,3 @@
-# Completed Project: Working with UI Controls
+# Completed Project: Building Lists and Navigation
 
-Explore the completed project for the [Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls) tutorial.
+Explore the completed project for the [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) tutorial.
